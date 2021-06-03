@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cunctis Christi, Apostolorum sanctorumque verba docentibus &amp; profitentibus To all the professors &amp; teachers of Christs words, and the apostles and saints / authore G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23116</idno><idno type="EEBO-CITATION">19317368</idno>
+  <idno type="VID">205492</idno>
+  <idno type="EEBO-PROQUEST">2240861401</idno>
+  
+            <idno type="STC">Wing F1781</idno>
+            <idno type="OCLC">19317368</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205492)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cunctis Christi, Apostolorum sanctorumque verba docentibus &amp; profitentibus To all the professors &amp; teachers of Christs words, and the apostles and saints / authore G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in Latin followed by an English translation.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205492:1"/>
+            <p> CUNCTIS CHRISTI, Apostolorum SANCTORUMQUE VERBA DOCENTIBUS &amp; PROFITENTIBUS.</p>
+            <p>TO ALL THE PROFESSORS &amp; TEACHERS OF Christs Words, AND THE APOSTLES and SAINTS.</p>
+            <p>Authore <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilson,</hi> at the Sign of the <hi>Black-Spread-Eagle</hi> and <hi>Windmil</hi> in <hi>Martins L' Grand,</hi> 1660,</p>
+            <pb facs="tcp:205492:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205492:2"/>
+            <div xml:lang="lat" type="version">
+               <head>
+                  <hi>Cunctis</hi> CHRISTI, APOSTOLO<g ref="char:EOLhyphen"/>RƲM, SANCTORƲMQƲE verba DOCENTIBƲS &amp; PRO<g ref="char:EOLhyphen"/>FITENTIBƲS.</head>
+               <p>HEU quomodo dedecori fuistis veritati! O quomodo dedecori fuistis nomini Dei! O quomodo Evan<g ref="char:EOLhyphen"/>gelio fuistis oneri! O quomodo naufragium fe<g ref="char:EOLhyphen"/>cistis gloriae vestrae! Irrita enim gloria vestra, O quomodo crucem Christi habuistis in contemptu! Et in vestra confusione superbîistis: Neque Domino Jesu Christo; Sed propriis inservîistis ventribus; Heu, quamdiu Aposto<g ref="char:EOLhyphen"/>lorum, Prophetarum, Sanctorumque verba mercati estis! Cujus causâ quamplurimi, qui in ipsâ eorum vitâ vigent, multum compassi sunt; &amp; numellati, &amp; percussi, &amp; in exilium missi fuerunt, &amp; a vobis incarcerati. O quomodo haecce mercati estis verba. Et flagellastis, sannisque excepistis, con<g ref="char:EOLhyphen"/>vitiisque lacerastis Dei electos; Imo Sanctos, qui in ejus sunt Spiritu, qui <hi>Scripturas dictitavit.</hi> O Professores; &amp; vos Magistratos primae, Doctoresque sub sanctimonii praetextu, <hi>Ʋbi nunc reperiatur veritas?</hi> nonne in <hi>ergastulis vestris;</hi> &amp; <hi>pistrinis,</hi> &amp; <hi>cippis?</hi> Hisce locis jam quaerant populi verita<g ref="char:EOLhyphen"/>tem. Iniquitatis enim Ministri, <hi>(qui non Domino Jesu Christo,</hi> sed <hi>propriis ventribus inserviunt; turpis luori gratiâ decentes)</hi> unà cum Potestatibus Profitentibus, qui ab illis equitantur, nolunt hi ut ullus sit inter eos locus veritati: quin in <hi>clau<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ris, pistrinis,</hi> eorumque <hi>cippis,</hi> atque <hi>vinolis. O invere<g ref="char:EOLhyphen"/>cundae frontis homines!</hi> Quomodo Sanctorum bona de
+<pb n="2" facs="tcp:205492:3"/> vastastis? Quomodo rapuistis? Nunc antem manifesta est patientia <hi>Iiobi;</hi> Quales vos constat <hi>lupos esse ovium a<g ref="char:EOLhyphen"/>mictu? devorantes, laniantes, familiasque passim dilacerantes,</hi> quibus minimè operati estis, (<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>psius quidem <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upi.) haec clau<g ref="char:EOLhyphen"/>stra vestra in provinciis, <hi>carceresque testentur.</hi> Quamquam populum lecturis initiatis hùc &amp; issue auscultare; oculos po<g ref="char:EOLhyphen"/>puli ad praestringendum; regionem ad obeaecandum. <hi>Pu<g ref="char:EOLhyphen"/>tatisnè vos ab illos detectos esse?</hi> Quod si vel, in ora vestra, plebs non ingereret; &amp; <hi>si suppetias vobis ferre Magistratus de<g ref="char:EOLhyphen"/>sisteret;</hi> dapibusque, vobis (finitis lecturis) congratulari; <hi>caetum pastorum obmutescentium,</hi> illis similes, <hi>de quibus loquitur Isaias,</hi> vos ipsos esse manifestaretis. An gannieritis? Quin vobis augmentationes, computationesque <hi>Paschales,</hi> similiter<g ref="char:EOLhyphen"/>ac <hi>porculos, anseresque faenumque; decumanum,</hi> reddant, &amp; <hi>praedia glebaria.</hi> Numquid, aut <hi>cantabitis,</hi> aut precati eritis sine <hi>mercede?</hi> verbis enim sanctorum, Prophetarumque, <hi>clepsi<g ref="char:EOLhyphen"/>drae</hi> adminiculo mercaturam aginis; haec vobis est limiti; essluxâ autem <hi>clepsydrâ;</hi> elapsum (ovicini) tempus est: Nonnè cuncta haec deteguntur luce? <hi>venitne etiam dies, a quo nusquam est vobis locus abscondendi.</hi> Et jam conciones vestrae permultae, una cum factis, cunctisque vestris blandiloquentiis, <hi>Haec undique per regionem, faciunt, ut sitis quasi faetidi;</hi> qui populos quibus non molimini, <hi>passim despoliatis, cum cavillatoribus aeque,</hi> (&amp; vel pejores) contaminati; nam in eo<g ref="char:EOLhyphen"/>rum bona tantum hi praedati sunt; vos autem, &amp; praese fertis venerationem, nec non &amp; invincula conjicitis; <hi>Estis vos tales qui non Domino Christo Jesu▪ Sed propriis inservitis ventribus;</hi> cultores enim si essetis Christi, neutiquam vos tali doctrinae, factisvè talibus institueret. Vos igitur <hi>O putei inaquosi; sine pluviâ, nubes, vosque o errantia Sidera,</hi> quibus <hi>reservatur procella tenebrarum, Sanctorum supellectilum devastatio, incarcerationes</hi> etiam, cum Dominationibus, &amp; Potestatibus, <hi>cuncta haec Christi Domini Jesu, illos a consortio, nequeant segregare. Misera<g ref="char:EOLhyphen"/>bilis autem locus,</hi> flebilisque vester status est, <hi>O cunctivos Ministri iniquitatis.</hi> veniet enim tempus cum <hi>ejulabitis,</hi> quod non perîisset dies quo eratis nascituri. <hi>Praestabilius longe fuisset, quod populi Dei bonorum</hi> devastatione, non vitas degeratis. Hoc enim vos om<g ref="char:EOLhyphen"/>nes devorabit. Nonnè Papa claustra, atque vincula prímò
+<pb n="3" facs="tcp:205492:3"/> fundavit? Estnè hic vobis regulae? <hi>Detimationes, Pascha<g ref="char:EOLhyphen"/>lesque computationes,</hi> pariter &amp; <hi>aestivalia debita,</hi> nonnè primo instituit? Docuitnè primùm, Scripturis <hi>commercia</hi> facere? Sanctosque trucidare, eorumque dicta vendere pretio? <hi>Sed venit Deus Dominus in vos, O Pastores, Ducesque gregis ultionem agere, ulul<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tio vos desuper est venienda.</hi> Dolo malo populum fe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellistis; illis, pecuniâ divinatis turpisque quaestus causâ Ministrâstis; Magisterium in eos egistis, bonis. <hi>Dum in ora vestra ingerunt, illis vellere praedicati estis,</hi> die praenubilo, &amp; tenebroso, jam inde a diebus Apostolorum; Tentoria vestra sunt inquinata, tenebraeque habitacula; apparent fructus, testantur carceres. Vestrae vineae sunt sollitudo, ut de<g ref="char:EOLhyphen"/>serta jacent, (deserta ululantia.) Putrefactae sunt arbores, vinoque veteri, obbae sunt impletae, quae novo elisae sunt, ex<g ref="char:EOLhyphen"/>tincta candela vestra, unde non potestis lumine fidem tenere, <hi>quod unumquemque illuminat hominem venientem in mundum;</hi> &amp; tenebrae vestrae illud nequeunt comprehendere. <hi>Permul<g ref="char:EOLhyphen"/>torum vestrum transibit<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dies visitationis,</hi> vosque desuper erit soli<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> occasns; &amp; eritis vos fracti, retrorsumque revertetur vestra sagacitas. Nec multò diutius imposturam facietis populo. In apertum evenit stultitia vestra, eamque nemini non in di<g ref="char:EOLhyphen"/>câstis, unà cum truculentiâ, duri-cordio, immanitateque vestra, inque Sanctorum bona praedatione. Qui Domini prorsus absque timore vitas agitis. Quasi de Deo, Christo Ecclesia, Prophetis, Apostolis, seit de Christo Jesu, Dei filio rumorem nunquam audiissetis. Non enim hi vobis regu<g ref="char:EOLhyphen"/>lae sunt, sed illi qui non sunt in veritate. <hi>Qui igitur turpis lu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri gratiâ, vellere, bonisque, quaestuque eorum quisque ab extremitate suâ, docent, divinant que pecuniâ,</hi> nunquam hi Dei populo inser<g ref="char:EOLhyphen"/>viebant. In tales autem <hi>populi Domini</hi> (qui <hi>in timore ejus vixe<g ref="char:EOLhyphen"/>rant,) exclamabant.</hi> Tales enim aestuationi, <hi>talesque persecu<g ref="char:EOLhyphen"/>toribus,</hi> &amp; animos ad terrestria appulentibus, qui in transgressi<g ref="char:EOLhyphen"/>one vivunt, (Dei è potentiâ exclusi) inserviebant. Vos igitur qui Dominum Deum degustâstis ne plagarum eorum sitis par<g ref="char:EOLhyphen"/>ticipes, ab illis exite: Nam ficta eorum humilitas, justitia si<g ref="char:EOLhyphen"/>bi appropriata, veneratio, praedicatio, verborumque Sancto<g ref="char:EOLhyphen"/>rum voluntaria professio, <hi>(quae verba non veniunt hominis volun<g ref="char:EOLhyphen"/>tate)</hi> eorum necessitatibus haec non inservient. Hoc enim hi
+<pb n="4" facs="tcp:205492:4"/> qui in voluntate Dei stabant, nunquam fecerunt; <hi>Sed gratis acceperunt, dederunt que gratis, tales Domino Jesu Christo inser<g ref="char:EOLhyphen"/>viebant.</hi> Tales vero qui Domino Jesu Christo non inservie<g ref="char:EOLhyphen"/>bant, hi non gratis, sed turpis lucri gratiâ (avaritiae dediti) Sanctorum verba praedicabant. Gratis tamen alteri accipie<g ref="char:EOLhyphen"/>bant, gratis e<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebant, docuerunt que gratis; Christo qui in<g ref="char:EOLhyphen"/>servere. O cuncti igitur duces obcaecati, caeci ductores, cae<g ref="char:EOLhyphen"/>ci vigilarii, cujus opera in Deo non operantur, qui odistis lu<g ref="char:EOLhyphen"/>cem nec ad illam venietis, quia mala sunt opera; &amp; sic tenebras magis quam lumen delexistis; quorum in apertum eruunt opera tenebrosa, nec abscondi queant. Cunctos a luce voluistis detinere, eamque, ut vosmèt ipsi, odio prose<g ref="char:EOLhyphen"/>qui. sic eorum oculos ut non cernerent, praestringere, <hi>non secus ac Pharisei qui caelorum regna ab hominibus occluserunt, nec illi ipsi voluerunt intrare; nec sinere ut intrarent alii.</hi> Ita &amp; a h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce quâcum illuminantur, voluistis homines detinere, ut vestra opera non decernerent. Haec autem vestra est con<g ref="char:EOLhyphen"/>demnatio, eam qui odistis magisque tenebras delexistis, nec ad eam, quia vos angueret, vultis venire. In quantum, vestra capita transeuntes, sancti gressus diligunt. Quod vobis est condemnationi, quia lumini, quod ad diem ducit, unitate adjunct<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sunt, unde cuncta cernuntur opera vestra, &amp; mani<g ref="char:EOLhyphen"/>festantur, <hi>Laus ideò, &amp; gloria Deo Domino in aeternam,</hi> in quo unitatem testantur sancti, &amp; cantare queant; <hi>hallelujah. Regnat Deas Dominus omnipotens,</hi> in lumine decernitur. Cunctis, vestris concionibus formalibus, cantationibus, &amp; conspersionilius, &amp; sacramentis, vestrâque tepiditate, O vos Doctores &amp; Professores, (qui Deo ac Christo diu labiis in<g ref="char:EOLhyphen"/>serv<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>istis, dum corda fuerunt illo longè remota) vos hinc a<g ref="char:EOLhyphen"/>molimini. Apagete vestris hominum traditionibus, mun<g ref="char:EOLhyphen"/>dique hujus rudimentis; hominumque Praeceptis &amp; Doctri<g ref="char:EOLhyphen"/>nis, Templo mundano, (seilicet linigerorum Synagogis) (nam Templum in Deo est, <hi>Thess.</hi> 1.) vos apagete, cantati<g ref="char:EOLhyphen"/>onibus, praedicationibus, praecationi<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>sque vestris pro pecu<g ref="char:EOLhyphen"/>niâ (clepsydrae adminiculo) vos apagete. Humilitate fictâ, voluntariis cum adorationibus, documentis, dissimulatisque dictis, omnes, verborum Prophetarum, Sanctorum, Aposto<g ref="char:EOLhyphen"/>rum, Filiisque Doctores, &amp; Professores (in vos enim exardes<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it
+<pb n="5" facs="tcp:205492:4"/> Dei Domini excandescentia) hiec vos amolimini Com<g ref="char:EOLhyphen"/>pertum habetur vos a vitâ esse alieni, qui ventrum vestri gra<g ref="char:EOLhyphen"/>tiâ, in carceres ad mortem usque compingitis. An huc reli<g ref="char:EOLhyphen"/>gio vestra, professio, ecclesia? An huc vestrum tendit Mini<g ref="char:EOLhyphen"/>sterium? An totum ei, quod o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus, ac ventribus paratum est tendit? Dum nolitis ut veritas, quin in pistrinis vestris, us<g ref="char:EOLhyphen"/>quam inter vos vigeat. An nomen, sancti, radicitus è terrâ, extirparetis? Nulla inter vos exemplaria, quae Apostolorum Jesuque Christi doctrinae institunt vivere s<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>entes. Sed veri<g ref="char:EOLhyphen"/>tas exorta est mundumque comprehendit nam priusquam hic extitit, fuerat. <hi>Quam Diaboli Ministri, ipsius adminiculo neque<g ref="char:EOLhyphen"/>ant diruere. Nam &amp; ipsum &amp; ejus opera funditus evertit;</hi>
+               </p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="6" facs="tcp:205492:5"/>
+               <head>
+                  <hi>To all the</hi> PROFESSORS, <hi>and</hi> TEACHERS, <hi>of</hi> CHRISTS WORDS, <hi>and the</hi> APOSTLES, <hi>and</hi> SAINTS.</head>
+               <p>OH how have you dishonoured the Truth! Oh how have you dishonoured the Name of God! Oh how have you made the Gospel chargable! Oh how have you lost the Glory! your glory is made void: Oh how have you dispised the Cross of Christ! and gloryed in your shame, and served not the Lord Jesus Christ, but your own bellies: Oh how long have ye made a trade of the Prophets, Apostles, and Saints words! for which many suffer that be in the life by you, and are Stockt, and Whipt, Banished, and Imprisoned: Oh how have you made a trade of these words; and Whipt, and Persecuted, Prisoned, and Scoft, and Mockt, and Reproached the Elect of God, the Saints, such as be in the Spirit of God that gave forth Scrip<g ref="char:EOLhyphen"/>tures! Oh ye Professors! professing Magistrates and Teach<g ref="char:EOLhyphen"/>ers, where is truth now to be found in your Goals, in your houses of Correction, in your stocks, there's the place now for people to look for truth. For the Ministers of <hi>unrighteousness, that serve not the Lord Jesus Christ but their own bellies, that teach for filthy lucre:</hi> And the Professing Magistrates that they ride upon, will not let Truth have any place among them, ex<g ref="char:EOLhyphen"/>cept it be in their Goals, houses of Correction, Stocks, or Prisons. Oh shameless men! what havock have you made of the Saints goods? what spoyling of them? <hi>But now Jobs</hi>
+                  <pb n="7" facs="tcp:205492:5"/>
+                  <hi>patience comes to be known.</hi> What Wolves do you appear in the sheeps cloathing, ravening, worrying, and tearing, in whole families, such as ye do no work for. A right Wolf; let your Goals and the Prisons in the Countryes make them manifest. Yet do you pretend to teach people to keep Lectures up and down to blind people, to blind the Country: Think ye not that they see them, that if the Country people did not put into the mouths, and the Magistrates give the main<g ref="char:EOLhyphen"/>tenance, and dinners at your Lectures; that ye would be a company of Dumb Shepheards, like them that <hi>Isaiah</hi> speaks of. Will you bark without they give you any Augmentations, your Easter Recconings, Tith Pigs, and Geese, Hay, &amp;c. and Gleab lands. Nay, will you sing without mony, pray without mony? you make trades of the Saints words, Prophets words, by the hower-glass, that is your measure, and when the glass is run, tyme is spent Neighbours. Is it not the light makes all these things manifest? and the day come that you cannot be hid? And that all your Preaching, and all your fair words, and fair speeches. Your actions make you to stink in the Country, plundering people you do no work for; as bad as ever the <hi>Caviliers,</hi> or rather worse, for they did but take their goods away; and you pretend for a worship and cast into the prison besides. You be them that serve not the Lord Jesus Christ but your own bellies, for if you served Christ, he would teach you no such Doctrine, no such practices. Therefore, <hi>Oh ye wells without water, Cloudes without raine, ye wandring Stars; for whom is reserved the blackness of darkness.</hi> The spoyling of the Saints goods, the casting men into prison cannot separate them from <hi>the Lord Jesus Christ, nor the Powers, nor the Principallities:</hi> for all are the Ministers of unrighteous<g ref="char:EOLhyphen"/>ness, that rob for their bellies, &amp; plunders, and steals, and takes of them that hears them not. <hi>Oh wee and misery is your Condi<g ref="char:EOLhyphen"/>tion, and lamentable is your state,</hi> ye shall come to wish it had been better ye had never been born, and ye had better a lived without this making a spoyle of the people of Gods goods, for it will sinck you all: <hi>Was not the Pope the first Author of Goals and Prisons?</hi> is not He your example? was not He the first author of <hi>Tithes, Easter-reckonings, and Midsummer-dues!</hi> He
+<pb n="8" facs="tcp:205492:6"/> the first Author of making a trade of the Scriptures, and kil<g ref="char:EOLhyphen"/>ling the Saints, and making a trade of their words But the Lord God is come who will be avenged of you. Oh you Shepheards! howling must come among you, and principal of the flock, you have made a prey upon the people, ye Di<g ref="char:EOLhyphen"/>vine to them for mony, ye have taught to them for filthy lucre, you have born Rule among them for means: ye preach to them while they put into your months, ye preach to them for the fleece in the cloudy dark day, night of Apostacy, since the Apostles dayes, your tents are wicked, your ha<g ref="char:EOLhyphen"/>bitations is darknesse, the fruits appear, the Goals may wit<g ref="char:EOLhyphen"/>nesse, your <hi>Vineyards</hi> are <hi>Wildernesses,</hi> lye like a wildernesse, a howling wildernesse, your trees are corrupt, your bottles are fu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of the old wine, which burst with the new, your candle is put out, therefore ye cannot believe in the Light, that enlightens every man that commeth into the world, your darknesse cannot comprehend it: the day of many of your visitation will be over, the Sun over you set, and you shall be confounded, and your wisdom shall be turned back<g ref="char:EOLhyphen"/>ward; and you cannot deceive people much longer, your folly is made manifest, ye make it manifest to all men; your cruelty, your hard heartedness, your unmercifulness, your spoyling the Saints goods, who quite live without the fear of God, as if you had never heard talk of God, Christ, the Church, the Prophets, Apostles of Christ Jesus the Son of God, for they are not your examples; But such as be out of the Truth. <hi>Therefore such as teach for filthy Lucre, for the fleece for means, for the gain from their Quarters, that Divine for mony,</hi> such never served the people of God; but the people of God cryed against, that lived in his fear, But they served Covetousness, they served Persecutors, and earth<g ref="char:EOLhyphen"/>ly minded ones, that lives in transgression, out of the Pow<g ref="char:EOLhyphen"/>er of God. Therefore, you that feel after the Lord God come out from among them, least you be partakers of their plagues; for now their feigned humility, self-righteousness, will-worship, will not serve their own turns, their <hi>will-</hi>preaching, their <hi>will-</hi>professing the Saints words, (which comes not by the will of man) <hi>which they preach for their</hi>
+                  <pb n="9" facs="tcp:205492:6"/>
+                  <hi>eartly ends, which was not the practice of those who were in the will of God. But freely they had received, freely they gave: such served the Lord Jesus Christ,</hi> but such as served not the Lord Jesus Christ Preached not freely, Preached for filthy lucre, (the Saints words) that was Covetous; but such as served Christ, received freely, spake freely, taught freely. There<g ref="char:EOLhyphen"/>fore all ye <hi>blind guides, ye blind leaders, ye blind watchmen,</hi> whose deeds are not wrought in God, who hate the light, and will not come to it, because your deeds be evill, and you love the Durkness rather than the Light, whose works of darknesse break open, and cannot be hid; who would keep all people from the <hi>Light,</hi> and hate it as your selves; and so to keep them blind, that they should not see, like the <hi>Pharises, shut up the Kingdom of Heaven against men, would not go in themselves, nor suffer others,</hi> and so would keep people from the <hi>Light</hi> which Christ hath enlightned them withall, that they should not see your deeds. But that is your Con<g ref="char:EOLhyphen"/>demnation that hate it, and love the Darknesse rather, and will not come to it because it will reprove them. In that the Saints walk over your heads, which condemns you in that they have unity, in the <hi>Light</hi> which brings to the Day, by which all your fruits be made manifest, and seen, <hi>Praises and Glory to the Lord God for ever,</hi> in which the Saints have Unity, and can sing <hi>Hallalujah,</hi> the Lord Omni<g ref="char:EOLhyphen"/>potent reigns, in the light he is seen. Away with your <hi>For<g ref="char:EOLhyphen"/>mal Preaching, Singing, Sprinkling, and Sacraments,</hi> away with your Luke-warmness, <hi>Professors,</hi> and <hi>Teachers,</hi> who have long served God, and Christ with your lips, but your hearts far from him. Away with your <hi>Traditions of men, and ru<g ref="char:EOLhyphen"/>diments of the world, and Commandements, and Doctrines of men. Away with your worldly Church, Old Masse Houses, the Church is in God,</hi> Thessalonians <hi>the</hi> 1. away with your Singing, Preaching, and Praying for mony, by the hower<g ref="char:EOLhyphen"/>glass. Away with your seigned Humility, will-Worship, Hypocritical Speaking, and Teaching. The Lord Gods Indignation is kindled against you, all Professors, and Teachers, of the Saints, Prophets, Apostles, and Sons words, out of the life are ye found, that will prison to
+<pb n="10" facs="tcp:205492:7"/> death for your bellies. Is this the end of your Religion▪ Is this the end of your Profession, Church, and Ministry<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do's it all end for that which is for the mouth, and you<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bellies? and will not let truth live amongst you, but in your Goals: would ye root the Name of the Saints out of the Earth, and not let an example live amongst you, that follow the Apostles, and Christ Jesus Doctrine. But Truth is risen which comprehends the world, and was before it was: which all the Devils Instruments, and he cannot get down, but destroyes Him, and h<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> workes.</p>
+            </div>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
